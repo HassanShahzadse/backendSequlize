@@ -1,0 +1,23 @@
+{
+  "development": {
+    "database":"testdb6",
+    "username":"postgres",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  },
+  "test": {
+    "database":"testdb6",
+    "username":"postgres",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  },
+  "production": {
+    "database":"testdb6",
+    "username":"postgres",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  }
+}
